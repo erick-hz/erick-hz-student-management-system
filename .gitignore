@@ -1,0 +1,7 @@
+# Executable files
+*.exe
+
+# IDE configuration files
+.vscode/
+*.code-workspace
+
